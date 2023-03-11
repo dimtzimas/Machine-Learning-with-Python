@@ -1,3 +1,2 @@
 # Machine-Learning-with-Python
-Machine learning codes using Python programming language (Anaconda)
-These sample codes were written as a draft version for implementing the concepts of the book: "Text Analytics with Python A Practitioner’s Guide to Natural Language Processing — Second Edition — Dipanjan Sarkar", adapted for the greek language.
+Machine learning codes using Python programming language (Anaconda & Orange) - Learn how to process, classify, cluster, summarize, understand syntax, semantics and sentiment of text data with the power of Python! - These sample codes were written as a draft version for implementing the concepts of the book: "Text Analytics with Python A Practitioner’s Guide to Natural Language Processing — Second Edition — Dipanjan Sarkar", adapted for the greek language.
